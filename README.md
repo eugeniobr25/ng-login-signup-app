@@ -1,6 +1,6 @@
 ### 🙏 Agradecimentos
 
-Este projeto foi inspirado no excelente trabalho da [Fernanda Kipper](https://github.com/Fernanda-Kipper), disponível no [repositório original](https://github.com/Fernanda-Kipper/login-page/tree/feat/initial-config) e no [vídeo do YouTube](https://www.youtube.com/watch?v=6qbuuPM_de4&t=22s), que guiou a construção desta interface de login com Angular.
+Este projeto foi inspirado no excelente trabalho da [Fernanda Kipper](https://github.com/Fernanda-Kipper), disponível no [repositório original](https://github.com/Fernanda-Kipper/login-page) e no [vídeo do YouTube](https://www.youtube.com/watch?v=6qbuuPM_de4&t=22s), que guiou a construção desta interface de login com Angular.
 
 
 # LoginPage
